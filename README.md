@@ -3,9 +3,16 @@
 
 Using Plotly, I generated these 2D Histograms. Each one showed that time has a heavy play into the frequency of accidents. As seen below, the evident peaks are obvious in reason because they are during rush hour times of work communte. 
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~mmadhu94/4.embed"></iframe>
+<div>
+    <a href="https://plot.ly/~mmadhu94/4/?share_key=bfWCNtMNB0bMMp3hYelsgA" target="_blank" title="Histogram2d_Crash_Injury" style="display: block; text-align: center;"><img src="https://plot.ly/~mmadhu94/4.png?share_key=bfWCNtMNB0bMMp3hYelsgA" alt="Histogram2d_Crash_Injury" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="mmadhu94:4" sharekey-plotly="bfWCNtMNB0bMMp3hYelsgA" src="https://plot.ly/embed.js" async></script>
+</div>
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~mmadhu94/6.embed"></iframe>
+<div>
+    <a href="https://plot.ly/~mmadhu94/6/?share_key=uwqLY3nxKUsg8kh69Lvggd" target="_blank" title="Histogram2d_Crash_Damage" style="display: block; text-align: center;"><img src="https://plot.ly/~mmadhu94/6.png?share_key=uwqLY3nxKUsg8kh69Lvggd" alt="Histogram2d_Crash_Damage" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="mmadhu94:6" sharekey-plotly="uwqLY3nxKUsg8kh69Lvggd" src="https://plot.ly/embed.js" async></script>
+</div>
+
 
 Looking more generally at frequency of incidents over time we can see the same trend:
 
